@@ -7,3 +7,5 @@ interface to change how a given configuration behaves.
 
 Follow along with this [tutorial on HashiCorp
 Learn](https://learn.hashicorp.com/tutorials/terraform/variables?in=terraform/configuration-language).
+
+Be sure to destroy all at end!
